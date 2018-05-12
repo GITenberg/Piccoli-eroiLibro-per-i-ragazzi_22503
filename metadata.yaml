@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '25366'
     url: http://www.gutenberg.org/2009/agents/25366
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22503#Piccoli-eroiLibro-per-i-ragazzi
 gutenberg_bookshelf: IT Letteratura per ragazzi
 gutenberg_issued: '2007-09-04'
 gutenberg_type: Text
