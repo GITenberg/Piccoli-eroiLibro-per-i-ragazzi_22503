@@ -1,0 +1,31 @@
+_repo: Piccoli-eroiLibro-per-i-ragazzi_22503
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Treves, Virginia
+    alias: Cordelia
+    birthdate: 1849
+    deathdate: 1916
+    gutenberg_agent_id: '25366'
+    url: http://www.gutenberg.org/2009/agents/25366
+description: ''
+gutenberg_bookshelf: IT Letteratura per ragazzi
+gutenberg_issued: '2007-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22503'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+title: 'Piccoli eroi
+
+  Libro per i ragazzi'
+url: http://www.gutenberg.org/ebooks/22503
